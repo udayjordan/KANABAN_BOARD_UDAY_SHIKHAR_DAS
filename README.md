@@ -18,14 +18,17 @@ QuickSell is a web application that allows users to manage their tickets. It has
 ## Getting Started
 
 To get started with QuickSell, follow these steps:
+1. Clone the QuickSell repository:
+```
+git clone https://github.com/udayjordan/KANABAN_BOARD_UDAY_SHIKHAR_DAS.git
 
+```
 
-
-1. Install the dependencies:
+2. Install the dependencies:
 ```
 npm install
 ```
-2. Start the development server:
+3. Start the development server:
 ```
 npm run start
 ```
